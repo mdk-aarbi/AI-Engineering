@@ -1,15 +1,18 @@
-# Write a program that classifies a number as prime.
+# Task_6: Write a program that classifies a number as prime.
 
 num = int(input("Enter the number: "))
 
-prime = True
-for x in range(2, 10):
-    if x is not num:
+if num < 0:
+    num *= -1
+
+if num < 2:
+    prime = False
+else:
+    prime = True
+    for x in range(2, num + 1):
         if num % x == 0:
             prime = False
-
-if num == 1:
-    prime = True
+            break
 
 if prime:
     print(f"{num} is prime.")
