@@ -1,4 +1,4 @@
-# Task_8: Write a while loop that implements a simple menu-driven CLI (add/remove/list/quit)
+# Problem_8: Write a while loop that implements a simple menu-driven CLI (add/remove/list/quit)
 # until the user quits.
 
 ids = list()

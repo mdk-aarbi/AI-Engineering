@@ -1,4 +1,4 @@
-# Task_7: Implement FizzBuzz for 1–100 using a for loop, then rewrite it using a while loop.
+# Problem_7: Implement FizzBuzz for 1–100 using a for loop, then rewrite it using a while loop.
 
 # FizzBuzz for 1-100 using for loop:-
 print("FizzBuzz for 1-100 using for loop:-")

@@ -1,4 +1,4 @@
-# Task_3: Write a script that swaps two variables without using a temporary variable.
+# Problem_3: Write a script that swaps two variables without using a temporary variable.
 
 num_1 = int(input("Enter the number 1: "))
 num_2 = int(input("Enter the number 2: "))

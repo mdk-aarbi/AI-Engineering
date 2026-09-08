@@ -1,4 +1,4 @@
-# Task_1: Write a program that takes a string input from the user and safely casts it to int/float.
+# Problem_1: Write a program that takes a string input from the user and safely casts it to int/float.
 
 st_1 = int(input("Enter a number: "))
 st_2 = float(input("Enter a decimal value: "))

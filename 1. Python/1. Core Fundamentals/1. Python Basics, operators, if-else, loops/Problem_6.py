@@ -1,4 +1,4 @@
-# Task_6: Write a program that classifies a number as prime.
+# Problem_6: Write a program that classifies a number as prime.
 
 num = int(input("Enter the number: "))
 

@@ -1,4 +1,4 @@
-# Task_5: Write a CLI script that reads two numbers via `input()` and prints their sum
+# Problem_5: Write a CLI script that reads two numbers via `input()` and prints their sum
 # with a formatted string.
 
 num_1 = int(input("Enter the first number: "))

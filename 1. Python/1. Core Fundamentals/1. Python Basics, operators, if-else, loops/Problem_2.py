@@ -1,4 +1,4 @@
-# Task_2: Given `a = '10'`, `b = 3`, predict and then verify the output of `a*b`, `int(a)*b`, `a+str(b)`.
+# Problem_2: Given `a = '10'`, `b = 3`, predict and then verify the output of `a*b`, `int(a)*b`, `a+str(b)`.
 
 # Prediction:-
 # a * b = 101010
