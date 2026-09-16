@@ -1,4 +1,4 @@
-# a simple grading script (marks in, letter grade out).
+# a simple grading script (marks in, letter grade out)..
 
 marks = int(input("Enter the marks out of 100: "))
 
