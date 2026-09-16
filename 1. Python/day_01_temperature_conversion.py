@@ -1,3 +1,5 @@
+# a temperature converter (C to F to K, both ways) CLI script.
+
 # Getting the initial inputs...
 cel = float(input("Enter the value in celsius: "))
 fah = float(input("Enter the value in fahrenheit: "))
