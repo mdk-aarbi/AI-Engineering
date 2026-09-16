@@ -1,6 +1,6 @@
 # a simple grading script (marks in, letter grade out).
 
-marks = float(input("Enter the marks out of 100: "))
+marks = int(input("Enter the marks out of 100: "))
 
 if marks >= 85 and marks <= 100:
     print("Grade = A")
@@ -22,7 +22,7 @@ elif marks > 53 and marks < 58:
     print("Grade = D+")
 elif marks > 49 and marks < 54:
     print("Grade = D")
-elif marks > 0 and marks < 50:
+elif marks >= 0 and marks < 50:
     print("Grade = F")
 else:
     print("Invalid input. Try again.")
